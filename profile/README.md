@@ -1,6 +1,6 @@
 # Clearpath <img src="https://github.com/Samsonroyal/Clearpath/assets/26835888/b04dfbba-fb7f-4afb-b1c5-f9d2ea27bbf7" alt="Logo" width="40" height="40" />
 
-## Description
+## About us
 
 Clearpath is a lightweight and efficient project management tool designed to help teams effectively plan, track, and deliver projects. With its intuitive interface and powerful features, Clearpath streamlines project management processes, enabling teams to stay organized and collaborate seamlessly.
 
