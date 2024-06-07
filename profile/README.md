@@ -4,15 +4,6 @@
 
 Clearpath is a lightweight and efficient project management tool designed to help teams effectively plan, track, and deliver projects. With its intuitive interface and powerful features, Clearpath streamlines project management processes, enabling teams to stay organized and collaborate seamlessly.
 
-## Table of Contents
-
-1. [Features](#features)
-2. [Getting Started](#getting-started)
-3. [Contributing](#contributing)
-4. [Documentation](#documentation)
-5. [License](#license)
-6. [Support](#support)
-
 ## Features
 
 - **Intuitive User Interface:** Clearpath boasts a visually appealing and user-friendly interface that ensures easy navigation and access to features.
@@ -21,8 +12,10 @@ Clearpath is a lightweight and efficient project management tool designed to hel
 - **Automated Tracking:** Stay up-to-date with automated progress reports, notifications, and reminders based on task updates and project milestones.
 - **Integrated Communication:** Clearpath facilitates efficient communication among team members through integrated channels, fostering collaboration and minimizing context switching.
 
-
 ## Getting Started
+
+Visit any of the two repositories we have currently on the repositories tab [Repositories](https://github.com/orgs/Clearpath-HQ/repositories).
+
 
 To get started with Clearpath, follow these steps:
 
@@ -31,30 +24,10 @@ To get started with Clearpath, follow these steps:
 3. Install dependencies: `npm install`
 4. Run the application: `npm run dev`
 
-## Contributing
-
-We welcome contributions from the community. Please read the [Contributing Guidelines](CONTRIBUTING.md) before making any contributions.
-
-1. Clone the repository by clicking on the code button and choose either GitHub Desktop or CLI, as seen in the image below:
-   
-   ![image](https://github.com/Samsonroyal/Clearpath/assets/26835888/203f220f-0815-4821-b3b6-4388115d725d)
-
-2. Create a new branch: `git checkout -b your-branch-name`
-3. Make your changes; ensure to periodically stage the changes.
-4. Build the application; before you commit changes to production, always ensure to run this command: `npm run build`
-5. Commit the changes: `git commit -m 'Add some feature'`
-6. Push to the branch: `git push origin your-branch-name`
-7. Submit a pull request.
-8. Assign someone to review your PR before it's merged into the main branch.
-
-## Documentation
-
-Detailed documentation for Clearpath can be found in the [docs](docs/) directory.
-
 ## License
 
-Clearpath is licensed under the [MIT License](LICENSE).
+Clearpath is licensed under both the [MIT License](https://github.com/Clearpath-HQ/Clearpath_frontend?tab=MIT-1-ov-file) and the [GPL-3.0 license](https://github.com/Clearpath-HQ/Clearpath_backend?tab=GPL-3.0-1-ov-file)
 
 ## Support
 
-If you need help or have any questions, please open an issue on the [GitHub repository](https://github.com/clearpath/clearpath/issues).
+If you need help or have any questions, please go to the discussions tab here [Discussions](https://github.com/orgs/Clearpath-HQ/discussions).
